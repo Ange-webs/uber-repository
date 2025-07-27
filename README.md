@@ -254,7 +254,7 @@ Output
 
 
 at the end the powerBI dashboard looks like this 
-![](/images/powerbi.png)
+![](/images/powerbi.jpeg)
 
 ## Author
 Uwimbabazi Ange
